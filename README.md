@@ -109,7 +109,7 @@ El objetivo del proyecto es ofrecer una solución moderna, intuitiva y accesible
 # 📂 Estructura del proyecto
 
 ```bash
-gymmanager-web/
+gymanager-web/
 │
 ├── backend/
 │   ├── controllers/
@@ -136,13 +136,13 @@ gymmanager-web/
 ## 1. Clonar repositorio
 
 ```bash
-git clone https://github.com/tuusuario/gymmanager-web.git
+git clone https://github.com/tuusuario/gymanager-web.git
 ```
 
 ## 2. Entrar al proyecto
 
 ```bash
-cd gymmanager-web
+cd gymanager-web
 ```
 
 ## 3. Configurar base de datos MySQL
@@ -150,7 +150,7 @@ cd gymmanager-web
 Crear una base de datos llamada:
 
 ```sql
-gymmanager
+gymanager
 ```
 
 ## 4. Ejecutar backend
