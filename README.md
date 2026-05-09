@@ -196,5 +196,5 @@ Proyecto desarrollado con fines educativos para el ciclo de Desarrollo de Aplica
 
 # 👨‍💻 Autor
 
-Adrián García  
+Adrián García González 
 Proyecto DAW - Aplicación web de gestión de gimnasio 💪
