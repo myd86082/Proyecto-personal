@@ -1,4 +1,4 @@
-# GymManager Web 🏋️‍♂️
+# GyManager Web 🏋️‍♂️
 
 Aplicación web de gestión de gimnasio desarrollada como proyecto de Desarrollo de Aplicaciones Web (DAW).
 
@@ -6,7 +6,7 @@ Aplicación web de gestión de gimnasio desarrollada como proyecto de Desarrollo
 
 # 📋 Descripción
 
-GymManager Web es una plataforma diseñada para facilitar la gestión de gimnasios, permitiendo administrar usuarios, entrenamientos, reservas de clases y pagos desde una única aplicación web.
+GyManager Web es una plataforma diseñada para facilitar la gestión de gimnasios, permitiendo administrar usuarios, entrenamientos, reservas de clases y pagos desde una única aplicación web.
 
 El objetivo del proyecto es ofrecer una solución moderna, intuitiva y accesible tanto para clientes como para entrenadores y administradores.
 
