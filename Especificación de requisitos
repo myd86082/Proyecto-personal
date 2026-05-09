@@ -1,4 +1,4 @@
-Especificación de requisitos
+#Especificación de requisitos
 Proyecto: Aplicación web de gestión de gimnasio
 
 | Código | Tipo                | Descripción                                                                                           |
